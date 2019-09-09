@@ -9,7 +9,7 @@ You can use it in simple situations where you do not have to use complicated dat
 
 It works by comparing the new random number with the random number in the array and inserting a new random number if different.
 
-The exe file(DifferentRandomNumbers.exe) is produced by compiling the code in the Windows 10 environment. (Expect to work on Windows 10)
+The exe file (DifferentRandomNumbers.exe) is produced by compiling the code in the Windows 10 environment. (Expect to work on Windows 10)
 
 ////////////////////////////////////
 
